@@ -1,5 +1,5 @@
-# IoT-Project
-Final Project
+# OTP-Based-Smart-Home
+
 ### Smart home system
 
 In this system, we intend at making a smart home from basic applications of IoT in home requirements. The major focuses of this project are:
